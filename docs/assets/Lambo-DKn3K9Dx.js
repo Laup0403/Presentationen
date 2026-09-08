@@ -1,1 +1,0 @@
-var e=``+new URL(`../Lambo.png`,import.meta.url).href;export{e as t};

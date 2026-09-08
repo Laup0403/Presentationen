@@ -1,0 +1,1 @@
+var e=`/Pr-sentationen/redo.png`;export{e as t};

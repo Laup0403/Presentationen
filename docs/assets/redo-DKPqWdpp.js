@@ -1,0 +1,1 @@
+var e=`/Presentationen/redo.png`;export{e as t};

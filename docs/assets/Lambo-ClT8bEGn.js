@@ -1,1 +1,0 @@
-var e=`/Pr-sentationen/Lambo.png`;export{e as t};

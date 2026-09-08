@@ -1,1 +1,0 @@
-var e=`/Lambo.png`;export{e as t};

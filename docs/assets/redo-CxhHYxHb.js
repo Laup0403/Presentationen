@@ -1,1 +1,0 @@
-var e=`/redo.png`;export{e as t};

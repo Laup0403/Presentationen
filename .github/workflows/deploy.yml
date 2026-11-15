@@ -52,7 +52,7 @@ jobs:
             exit 1
           fi
 
-          npx --yes staticrypt dist/index.html --directory dist --config false
+          npx --yes staticrypt dist/index.html --short --directory dist --config false
 
           if [ ! -f dist/index.html ]; then
             echo "::error::Encrypted index.html was not created!"
